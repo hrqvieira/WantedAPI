@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WantedPedia", "HTTPCLIENT\WantedPedia.csproj", "{BC38D5C2-351D-46A5-A469-DE5B4E4FE3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC38D5C2-351D-46A5-A469-DE5B4E4FE3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38D5C2-351D-46A5-A469-DE5B4E4FE3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC38D5C2-351D-46A5-A469-DE5B4E4FE3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38D5C2-351D-46A5-A469-DE5B4E4FE3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93050F2-B12C-42F3-A143-6D0FD39D5F60}
+	EndGlobalSection
+EndGlobal
